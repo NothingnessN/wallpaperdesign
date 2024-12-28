@@ -6,7 +6,7 @@ An application that includes wallpapers for phones with a size of 2400*1080.
 
 Don't forget to check out our website to see the pictures here on our website.
 
-www.wallpaperdesign.kesug.com
+www.wallpaperdesign.kesug.com (The site has SSL certificate issues so your browser may not open or you may get an error don't worry, there is no problem)
 
 If an update is made to the application (such as adding new images) the images will drop to the bottom of the page.
 
