@@ -1,6 +1,10 @@
 # wallpaperdesing_2
 
-A new Flutter project.
+A Flutter project.
+An application that includes wallpapers for phones with a size of 2400*1080
+Don't forget to check out our website to see the pictures here on our website.
+www.wallpaperdesign.kesug.com
+If an update is made to the application (such as adding new images) the images will drop to the bottom of the page
 
 ## Getting Started
 
